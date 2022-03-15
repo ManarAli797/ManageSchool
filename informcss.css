@@ -1,0 +1,262 @@
+.information{
+  border:1px solid white; 
+  margin-left:auto;
+ margin-right:auto;
+ width:900px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+
+
+
+.content {
+
+margin-top:-28px;
+background:linear-gradient(155deg, #e60073,#6699ff);
+height:90px;
+
+
+}
+
+.content p{
+  text-align:right;
+  margin-right:26px;
+  float:center;
+  font-size:25px;
+  font-family: ae_Furat;
+  padding-top:30px;
+}
+
+.content span{
+  position:relative;
+  text-align:left;
+  left:16px;
+  top:-60px;
+  float:left;
+  font-size:25px;
+  font-family: ae_Furat;
+  margin-bottom:0px;
+}
+
+.infolist ul{
+  position:relative;
+  float:right;
+  height: 100%;
+  font-family:AdvertisingMedium;
+  top:190px;
+  margin:120px 6px 19px 0px;
+  list-style:none;
+
+
+}
+
+.infolist ul li{
+  border:1px solid rgb(0,0,0,0.5);
+  border-radius:6px;
+  width:170px;
+  font-size: 18px;
+  color:black;
+  text-align:center;
+  margin-bottom: 14px;
+  margin-right:14px;
+  padding: 14px;
+
+}  
+
+.infolist ul a{
+  text-decoration: none;
+}
+ 
+ 
+.infolist .active{
+   
+ background-color:#8f6cd9;
+ opacity:0.9;
+
+}
+  /* page entert */
+.image{
+  float: left;
+  position:relative;
+  width:600px;
+  top:90px;
+  height:800px;
+  margin:5px;
+  left:55px;
+
+
+}
+.image .img1{
+  position:relative;
+  margin:15px;
+  top:-40px;
+  left:19px;
+}
+
+.image .img1 p{
+  font-size: 17px;
+  position:relative;
+  top:-170px;
+  left:42px;
+
+}
+
+
+.image .img2{
+  position:relative;
+  margin:15px;
+  top:-370px;
+  margin-left:380px;
+}
+
+
+.image .img2 p{
+  font-size: 17px;
+  position:relative;
+  text-align:center;
+  top:-180px;
+  left:26px;
+
+}
+
+
+
+.image .img3{
+  position:relative;
+  margin:15px;
+  top:-417px;
+  margin-left:385px;
+}
+.image .img3 p{
+   font-size: 17px;
+  position:relative;
+  text-align:center;
+  top:-160px;
+  left:26px;
+  }
+
+.image .img4{
+  position:relative;
+  margin:15px;
+  top:-748px;
+  margin-left:40px;
+}
+
+.image .img4 p{
+  font-size: 17px;
+  position:relative;
+  text-align:center;
+  top:-160px;
+  left:-152px;
+}
+
+/* page homework , course*/
+.work{
+   position:relative;
+   float:right;
+   right:20px;
+   height:200px;
+   width:580px;
+   top:170px;
+
+}
+.work #id_head{
+  position:relative;
+  float:right;
+  top:-44px;
+  color:#e64673;
+
+}
+
+.work #id_date{
+  position:relative;
+  float:right;
+  font-size:12px;
+  right:-26px;
+}
+ 
+.work #id_cont{
+  position:relative;
+  float:right;
+  top:30px;
+  right:-44px;
+  font-size:18px;
+  
+}
+
+/* table page sexam,sinform */
+caption{
+font-size:20px;
+padding:7px;
+color: #8f6cd9;
+}
+
+.tabl {
+  position:relative;
+  width:640px;
+  float:right;
+  right:40px;
+
+}
+
+.tabl table {
+border-collapse: collapse;
+padding:10px; 
+position: relative; 
+top:170px;
+right:-30px;
+width: 600px;
+
+} 
+
+th,td{
+  padding:13px;
+  text-align:center;
+  border-bottom:1px solid #8f6cd9;
+  
+ }
+
+tr:hover{ 
+  background-color: #f5f5f5;
+}
+
+/* page add, */
+.add_list ul{
+position:relative;
+font-family:AdvertisingMedium;
+padding-top:45px;
+margin:90px 12px 19px 0px;
+list-style:none;
+left:40px;
+
+}
+
+.add_list ul li{
+border:1px solid rgb(0,0,0,0.5);
+border-radius:6px;
+display:inline;
+width:170px;
+font-size: 18px;
+color:black;
+text-align:center;
+margin-bottom: 14px;
+margin-right:34px;
+padding: 14px;
+margin-left:25px;
+}
+
+
+.add_list ul a{
+  text-decoration: none;
+}
+
+
+
+.add_list .active{
+   
+ background-color:#8f6cd9;
+ opacity:0.9;
+
+}
+
